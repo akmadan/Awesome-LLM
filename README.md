@@ -390,6 +390,7 @@
 - [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
 - [lighteval](https://github.com/huggingface/lighteval) - a lightweight LLM evaluation suite that Hugging Face has been using internally.
 - [simple-evals](https://github.com/openai/simple-evals) - Eval tools by OpenAI.
+- [Maxim AI](https://getmaxim.ai) - Evaluation Tool by Maxim AI
 
 <details>
 <summary>other evaluation frameworks</summary>
